@@ -10,6 +10,8 @@ Considero que mi creatividad y constancia son parte esencial en la resolución d
 
 :herb: Mis hobbies son: acampar, salir a caminar en lugares rodeados de naturaleza, escuchar podcast, encontrar música nueva, escribir, leer y ver películas!
 
+:black_nib: “La mariposa no puede recordar que ha sido oruga así como la oruga no puede adivinar que sería mariposa porque los extremos del mismo ser no se tocan.”
+
 <!--
 **pazvarela/pazvarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
